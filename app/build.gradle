@@ -63,4 +63,5 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     // TESTING DATABASE
     androidTestImplementation 'androidx.arch.core:core-testing:2.1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }

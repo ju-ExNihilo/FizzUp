@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Exercise RecyclerView Item -->
+    <dimen name="exercise_item_image_size">100dp</dimen>
+    <dimen name="exercise_item_arrow_size">30dp</dimen>
+    <dimen name="exercise_item_name_margin_start">24dp</dimen>
+    <dimen name="exercise_item_arrow_margin_end">8dp</dimen>
+    <dimen name="exercise_item_layout_margin_start">16dp</dimen>
+</resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FizzUp</string>
+    <string name="exercise_list_title">Liste des exercices</string>
 </resources>
